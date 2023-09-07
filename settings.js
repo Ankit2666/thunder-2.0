@@ -23,12 +23,12 @@ global.location = "India, Delhi, Bihar" //ur location
 
 //bot bomdy 
 global.ownernomer = "919355615854" //ur number
-global.premium = ['919540698964'] //ur premium number
+global.premium = ['919355615854'] //ur premium number
 global.botname = '⚡thunder 2.0⚡' //ur bot name
 global.linkz = "https://instagram.com/ankit_kumar__26" //your theme url which will be displayed on whatsapp
 global.websitex = "https://instagram.com/ankit_kumar__26" //ur website to be displayed
 global.botscript = 'https://instagram.com/ankit_kumar__26' //script link
-global.themeemoji = "🦓" //ur theme emoji
+global.themeemoji = "😗" //ur theme emoji
 global.packname = "⚡thunder⛈️ "
 global.author = "ankit❣️Contact No.: +919355615854"
 global.wm = "ankit❣️." //ur watermark
