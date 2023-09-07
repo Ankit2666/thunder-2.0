@@ -29,7 +29,7 @@ global.linkz = "https://instagram.com/ankit_kumar__26" //your theme url which wi
 global.websitex = "https://instagram.com/ankit_kumar__26" //ur website to be displayed
 global.botscript = 'https://instagram.com/ankit_kumar__26' //script link
 global.themeemoji = "😗" //ur theme emoji
-global.packname = "⚡thunder⛈️ "
+global.packname = "⚡thunder⛈️"
 global.author = "ankit❣️Contact No.: +919355615854"
 global.wm = "ankit❣️." //ur watermark
 
